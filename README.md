@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! I'm Rosie. :aries:
+## I'm a self-taught software developer, currently working with HTML, CSS and Javascript. :woman_technologist:
+
+
+
+
+
 
 <!--
 **Rosie-ODonnell/Rosie-ODonnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
