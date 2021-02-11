@@ -1,10 +1,10 @@
 ### Hey, I'm Rosie ✌🏼 
 
-I'm a self-taught software developer, currently working with HTML, CSS and Javascript. 👩🏼‍💻
+I'm a self-taught software developer 👩🏼‍💻, currently working with HTML, CSS and Javascript. 
 <br /> <br />
-I'm currently part of the [Founders and Coders](https://www.foundersandcoders.com/) Spring 2021 Cohort.
+I'm part of the [Founders and Coders](https://www.foundersandcoders.com/) Spring 2021 Cohort.
 
-I'm currently working on some Javascript games... stay tuned for those!
+At the moment, I'm working on some games using HTML, CSS and Javascript... check them out in in my [Games repo]().
 
 I'm passionate about making the tech industry more accessible and about using the power of technology for good.
 
