@@ -1,5 +1,7 @@
 ### Hey, I'm Rosie ✌🏼 
 
+![img](sunset.png)
+
 I'm a self-taught software developer 👩🏼‍💻, currently working with HTML, CSS and Javascript. 
 <br /> <br />
 I'm part of the [Founders and Coders](https://www.foundersandcoders.com/) Spring 2021 Cohort.
