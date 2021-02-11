@@ -1,5 +1,5 @@
-### Hey! I'm Rosie. :aries:
-## I'm a self-taught software developer, currently working with HTML, CSS and Javascript. :woman_technologist:
+# Hey! I'm Rosie. :aries:
+### I'm a self-taught software developer, currently working with HTML, CSS and Javascript. :woman_technologist:
 
 
 
