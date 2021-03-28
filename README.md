@@ -2,11 +2,9 @@
 
 ![img](sunset.png)
 
-I'm a self-taught software developer 👩🏼‍💻, currently working with HTML, CSS and Javascript. 
+I'm a self-taught software developer 👩🏼‍💻, with experience with HTML, CSS, Javascript, React, Next.js and Typescript. 
 <br /> <br />
 I'm part of the [Founders and Coders](https://www.foundersandcoders.com/) Spring 2021 Cohort.
-
-At the moment, I'm working on some games using HTML, CSS and Javascript... check them out in in my [Games repo]().
 
 I'm passionate about making the tech industry more accessible and about using the power of technology for good.
 
