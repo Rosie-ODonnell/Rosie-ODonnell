@@ -2,7 +2,7 @@
 
 ![img](sunset.png)
 
-I'm a self-taught software developer 👩🏼‍💻, with experience with HTML, CSS, Javascript, React, Next.js and Typescript. 
+I'm a self-taught software developer 👩🏼‍💻, with experience in HTML, CSS, Javascript, React, Next.js and Typescript. 
 <br /> <br />
 I'm part of the [Founders and Coders](https://www.foundersandcoders.com/) Spring 2021 Cohort.
 
