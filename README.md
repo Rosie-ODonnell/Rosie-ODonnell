@@ -8,6 +8,8 @@ I'm part of the [Founders and Coders](https://www.foundersandcoders.com/) Spring
 
 I'm passionate about making the tech industry more accessible and about using the power of technology for good.
 
+Recently, I took part in Deen Developers' [Hackathon for the homeless](https://deendevelopers.com/hackathon/) - you can find our project, Notice [here](https://deendevelopers.com/hackathon/)
+
 You can find me on Twitter at [_roseodonnell](https://twitter.com/_roseodonnell/likes) 
 
 
