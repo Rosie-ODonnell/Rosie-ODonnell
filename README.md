@@ -2,9 +2,9 @@
 
 ![img](sunset.png)
 
-I'm a self-taught software developer 👩🏼‍💻. My stack includes Javascript, React, Node.js and Typescript. 
+I'm a self-taught software developer 👩🏼‍💻. My stack includes Typescript, Vuejs, React, Node.js and Rust. 
 <br /> <br />
-I'm part of the [Founders and Coders](https://www.foundersandcoders.com/) Spring 2021 Cohort.
+I'm an alumna of the [Founders and Coders](https://www.foundersandcoders.com/) Spring 2021 Cohort.
 
 I'm passionate about making the tech industry more accessible and about using the power of technology for good.
 
