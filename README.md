@@ -12,7 +12,7 @@ Recently, I took part in Deen Developers' [Hackathon for the homeless](https://d
 
 You can find me on Twitter at [_roseodonnell](https://twitter.com/_roseodonnell/likes) 
 
-Check out my [website](https://www.rosie-odonnell.co.uk/), I'm excited to keep building on it!
+Check out my [website](https://www.rosie-odonnell.co.uk/), and keep it tabbed.. it's an exciting work in progress!
 
 
 
