@@ -4,9 +4,7 @@
 
 I'm a software engineer at [OakNorth Bank](https://oaknorth.co.uk/). My stack includes Typescript/ React and Python.
 
-<br /> <br />
-
-I'm an alumna of the [Founders and Coders](https://www.foundersandcoders.com/).
+I'm an alumna of [Founders and Coders](https://www.foundersandcoders.com/) bootcamp.
 
 I'm passionate about making the tech industry more accessible and about using the power of technology for good.
 
