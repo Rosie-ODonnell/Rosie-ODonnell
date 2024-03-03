@@ -2,7 +2,7 @@
 
 ![img](sunset.png)
 
-I'm a software engineer at [OakNorth Bank](https://oaknorth.co.uk/). My stack includes Typescript/ React and Python.
+I'm a software engineer at [OakNorth Bank](https://oaknorth.co.uk/). Currently writing code in React and Python.
 
 I'm an alumna of [Founders and Coders](https://www.foundersandcoders.com/) bootcamp.
 
@@ -10,7 +10,7 @@ I'm passionate about making the tech industry more accessible and about using th
 
 You can find me on Twitter at [\_roseodonnell](https://twitter.com/_roseodonnell/likes)
 
-Check out my [website](https://www.rosie-odonnell.co.uk/), and keep it tabbed.. it's an exciting work in progress!
+Check out my [website](https://www.rosie-odonnell.co.uk/).
 
 <!--
 **Rosie-ODonnell/Rosie-ODonnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
