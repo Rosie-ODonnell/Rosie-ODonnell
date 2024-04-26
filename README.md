@@ -6,7 +6,7 @@ I'm a software engineer at [OakNorth Bank](https://oaknorth.co.uk/). Currently w
 
 I'm an alumna of [Founders and Coders](https://www.foundersandcoders.com/) bootcamp.
 
-I'm passionate about making the tech industry more accessible and about using the power of technology for good.
+I'm passionate about TDD, fast delivery, product-focussed engineers and making the tech industry more accessible.
 
 You can find me on Twitter at [\_roseodonnell](https://twitter.com/_roseodonnell/likes)
 
