@@ -2,13 +2,11 @@
 
 ![img](sunset.png)
 
-I'm a software engineer at [OakNorth Bank](https://oaknorth.co.uk/). Currently writing code in React and Python.
+I'm a software engineer at [OakNorth Bank](https://oaknorth.co.uk/). Currently writing code in Python and Typescript.
 
 I'm an alumna of [Founders and Coders](https://www.foundersandcoders.com/) bootcamp.
 
 I'm passionate about TDD, fast delivery, product-focussed engineers and making the tech industry more accessible.
-
-You can find me on Twitter at [\_roseodonnell](https://twitter.com/_roseodonnell/likes)
 
 Check out my [website](https://www.rosie-odonnell.co.uk/).
 
