@@ -2,7 +2,7 @@
 
 ![img](sunset.png)
 
-I'm a software engineer at [Klaviyo]([(https://www.klaviyo.com/uk/]). Currently writing code in Python and Typescript.
+I'm a software engineer at [Klaviyo](https://www.klaviyo.com/uk/). Currently writing code in Python and Typescript.
 
 I'm an alumna of [Founders and Coders](https://www.foundersandcoders.com/) bootcamp.
 
